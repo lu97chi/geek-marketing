@@ -1151,6 +1151,14 @@
     "@types/react" "^17.0.0"
     react "^17.0.2"
 
+"@bit/geeknight.interactive.text@^0.0.1":
+  version "0.0.1"
+  resolved "https://node.bit.dev/geeknight.interactive.text/-/geeknight.interactive.text-0.0.1.tgz#4ca8842cf7a9bcde58c13a5d18980ba987e90c31"
+  integrity sha1-TKiELPepvN5YwTpdGJgLqYfpDDE=
+  dependencies:
+    "@types/react" "^17.0.0"
+    react "^17.0.2"
+
 "@bit/rober97to.geeknight.button@^0.0.3":
   version "0.0.3"
   resolved "https://node.bit.dev/rober97to.geeknight.button/-/rober97to.geeknight.button-0.0.3.tgz#179666ec1a321705cfd9556c32c5d0da8b69a13b"
